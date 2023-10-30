@@ -1,7 +1,0 @@
-yamllint
-pyright
-pylint
-flake8
-mypy
-{formatter_package}
-{precommit_package}

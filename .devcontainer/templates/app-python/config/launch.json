@@ -1,8 +1,0 @@
-[
-    {
-        "name": "Execute module '{project_name}'",
-        "type": "python",
-        "request": "launch",
-        "module": "{project_name}"
-    }
-]
