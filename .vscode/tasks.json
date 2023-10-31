@@ -6,10 +6,7 @@
       "type": "func",
       "command": "host start --script-root /workspaces/app/src/dcubelearning_tp",
       "problemMatcher": "$func-python-watch",
-      "isBackground": true,
-      "options": {
-        "cwd": "/workspaces/app/src/dcubelearning_tp"
-      }
+      "isBackground": true
     },
     {
       "label": "CI/CD: Build Package",
