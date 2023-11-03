@@ -48,6 +48,8 @@ fi
 export PATH="$WORKSPACE_PATH/tools:\$PATH"
 source /workspaces/app/.venv/bin/activate
 
+cd /workspaces/app
+
 # [END]:GENERATED_FROM_$script_name
 EOF
 
