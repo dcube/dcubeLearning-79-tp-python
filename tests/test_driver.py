@@ -2,8 +2,8 @@
 
 from typing import Any
 
-from src.shared.car import Car
-from src.shared.driver import Driver
+from shared.car import Car
+from shared.driver import Driver
 from shared.key_vault import KeyVault
 
 
